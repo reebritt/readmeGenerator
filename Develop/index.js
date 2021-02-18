@@ -17,17 +17,42 @@ const questions = [
     },
 
     {
+        type: 'input',
+        name: 'project',
+        message: 'What is the name of the project?'
+       
+    },
+
+    {
         type: 'list',
         name: 'license',
-        message: 'What kind of license would your project have',
+        message: 'What kind of license would your project have?',
         choices: ['MIT', 'Apache', 'None']
-    }
-// email , projectname , description, license use choices (mit , appache ..), 
-//what command should run dependicies (npm i)
-// what command should be run to test (npm test)
-//what does the user need to know about using the repo
-//what does the user need to know about contributing
+    },
 
+    {
+        type: 'input',
+        name: 'dependicies',
+        message: 'What command should run dependicies?'
+    },
+
+    {
+        type: 'input',
+        name: 'test',
+        message: 'What command should be run to test?'
+    },
+
+    {
+        type: 'input',
+        name: 'repo',
+        message: 'What does the user need to know about using the repo?'
+    },
+
+    {
+        type: 'input',
+        name: 'contribution',
+        message: 'What does the user need to know about contributing?'
+    }
 ];
 
 

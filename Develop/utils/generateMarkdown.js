@@ -1,26 +1,18 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return ` 
-         '# GITHUB'
-          ${data.github};
-        
-         '#'
-          ${data.email};
-       
-         '#'
-          ${data.project};
-        
-         '#'
-          ${data.license};
-         
-         '#'
-          ${data.dependicies};
-         
-         '#'
-          ${data.repo};
-                
-         '#'
-          ${data.contribution}`
+  return `# PROJECT
+  ${data.project}
+  # GITHUB
+  ${data.github}
+  # EMAIL 
+  ${data.email}
+  # Licence
+  ${data.license}
+  # DEPENDICIES
+  ${data.dependicies}
+  # REPO
+  ${data.repo}
+  # ${data.contribution}`;
          
 }
 

@@ -1,13 +1,19 @@
-# PROJECT
-  readme generator
-  # GITHUB
+## PROJECT 
+  Readme Generator
+  
+  ## GITHUB 
   reebritt@github.com
-  # EMAIL 
+
+  ## EMAIL 
   reebritt@icloud.com
-  # Licence
+
+  ## LICENSE 
   None
-  # DEPENDICIES
+
+  ## DEPENDICIES 
   node i
-  # REPO
-  this repo is a work in progress 
-  # as this class progresses the repos will become more advanced 
+  ## REPO 
+  this repo refelects my learnings in the course, as the class progresses the changes will be reflected 
+
+  ## CONTRIBUTION 
+  projects will become more complex as the course progresses

@@ -1,6 +1,15 @@
-## PROJECT 
+# Table of Contents
+### PROJECT
+### GITHUB
+### EMAIL
+### LICENSE
+### DEPENDICIES
+### REPO
+### CONTRIBUTION
+
+  ## PROJECT 
   Readme Generator
-  
+
   ## GITHUB 
   reebritt@github.com
 
@@ -12,8 +21,9 @@
 
   ## DEPENDICIES 
   node i
+
   ## REPO 
-  this repo refelects my learnings in the course, as the class progresses the changes will be reflected 
+  This repo reflects the projects that I am working on in the University of Miami coding bootcamp
 
   ## CONTRIBUTION 
-  projects will become more complex as the course progresses
+  As the course progresses, the projects will be more

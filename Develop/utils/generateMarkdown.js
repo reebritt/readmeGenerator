@@ -1,6 +1,15 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `## PROJECT 
+  return `# Table of Contents
+### PROJECT
+### GITHUB
+### EMAIL
+### LICENSE
+### DEPENDICIES
+### REPO
+### CONTRIBUTION
+
+  ## PROJECT 
   ${data.project}
 
   ## GITHUB 
@@ -14,7 +23,7 @@ function generateMarkdown(data) {
 
   ## DEPENDICIES 
   ${data.dependicies}
-  
+
   ## REPO 
   ${data.repo}
 
